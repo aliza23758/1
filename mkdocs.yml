@@ -1,0 +1,12 @@
+site_name: CFD-Class Documentation
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Contributing: contributing.md
+  - Changelog: changelog.md
+  - License: license.md
+  - Requirements:
+      - docs/requirements/SRS.md
+  - Design:
+      - docs/design/SDD.md
